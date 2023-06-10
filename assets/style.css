@@ -1,0 +1,11 @@
+.fkt__signup{
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    position: relative;
+    background-color: aquamarine;
+    margin: auto;
+    border: 1px solid black;
+    width: 500px;
+    padding: 10px 10px 10px 10px;
+}
